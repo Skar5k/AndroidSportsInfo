@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Defines a menu which allows changing current sport
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/change_sport"
+        android:title="@string/change_sport"
+        compat:showAsAction="ifRoom"/>
+
+</menu>

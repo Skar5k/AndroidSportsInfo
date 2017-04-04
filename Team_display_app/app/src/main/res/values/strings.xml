@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Team display app</string>
+    <string name="basketball_teams_str">Basketball Teams</string>
+    <string name="baseball_teams_str">Baseball Teams</string>
+    <string name="internet_permission_not_granted">Internet permission not granted</string>
+    <string name="change_sport">Change Sport</string>
+
+    <string-array name="Basketball_team_arr">
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>Detroit Pistons</item>
+        <item>Miami Heat</item>
+        <item>Orlando Magic</item>
+        <item>Utah Jazz</item>
+    </string-array>
+
+    <string-array name="Basketball_sites_arr">
+        <item>http://www.nba.com/bulls/</item>
+        <item>http://www.nba.com/cavaliers/</item>
+        <item>http://www.nba.com/pistons/</item>
+        <item>http://www.nba.com/heat/</item>
+        <item>http://www.nba.com/magic/</item>
+        <item>http://www.nba.com/jazz/</item>
+    </string-array>
+
+    <string-array name="Baseball_team_arr">
+        <item>Chicago White Sox</item>
+        <item>Chicago Cubs/</item>
+        <item>New York Yankees</item>
+        <item>Philadelphia Phillies</item>
+        <item>San Francisco Giants</item>
+        <item>St. Louis Cardinals</item>
+    </string-array>
+
+    <string-array name="Baseball_sites_arr">
+        <item>http://chicago.whitesox.mlb.com/index.jsp?c_id=cws</item>
+        <item>http://chicago.cubs.mlb.com/index.jsp?c_id=chc</item>
+        <item>http://newyork.yankees.mlb.com/index.jsp?c_id=nyy</item>
+        <item>http://philadelphia.phillies.mlb.com/index.jsp?c_id=phi</item>
+        <item>http://sanfrancisco.giants.mlb.com/index.jsp?c_id=sf</item>
+        <item>http://stlouis.cardinals.mlb.com/index.jsp?c_id=stl</item>
+    </string-array>
+
+</resources>

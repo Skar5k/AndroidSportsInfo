@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sport Team Viewer</string>
+    <string name="permis_descrip">allow app2 and app3 to respond to broadcasts via edu.uic.cs478.project3 permission</string>
+    <string name="selection_baseball">Baseball Selected</string>
+    <string name="selection_basketball">Basketball Selected</string>
+    <string name="selection_string">selection</string>
+    <string name="permission_success">Got permission!</string>
+    <string name="permission_fail">Did not get permission!</string>
+    <string name="permission_string">edu.uic.cs478.project3</string>
+    <string name="intent_string">cs478.selectedSport</string>
+</resources>
+
